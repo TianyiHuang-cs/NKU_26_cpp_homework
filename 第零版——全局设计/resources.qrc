@@ -1,0 +1,33 @@
+<RCC>
+<qresource prefix="/">
+    <file>images/man_idle000.png</file>
+    <file>images/man_idle001.png</file>
+    <file>images/man_idle002.png</file>
+    <file>images/man_idle003.png</file>
+    <file>images/man_idle004.png</file>
+    
+    <file>images/man_run_left000.png</file>
+    <file>images/man_run_left001.png</file>
+    <file>images/man_run_left002.png</file>
+    <file>images/man_run_left003.png</file>
+    <file>images/man_run_left004.png</file>
+    
+    <file>images/man_run_right000.png</file>
+    <file>images/man_run_right001.png</file>
+    <file>images/man_run_right002.png</file>
+    <file>images/man_run_right003.png</file>
+    <file>images/man_run_right004.png</file>
+    <file>images/first_floor.png</file>
+    <file>images/second_floor.png</file>
+    <file>images/sheetmusic.png</file>
+    <file>images/corridor.png</file>
+    <file>images/fourth_floor.png</file>
+    <file>images/catfood.png</file>
+    <file>images/book.png</file>
+    <file>images/keyboard.png</file>
+    <file>images/note1.png</file>
+    <file>images/note2.png</file>
+    <file>images/note3.png</file>
+    
+</qresource>
+</RCC>
